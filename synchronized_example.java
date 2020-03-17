@@ -2,7 +2,7 @@ public class synchronized_example {
 
     /**
      * synchronized keyword indicates that a method can
-     * be accessed by one one thread at a time
+     * be accessed by one thread at a time
      */
     
     public synchronized Record retrieveUserInfo(int id) {return 1;}
